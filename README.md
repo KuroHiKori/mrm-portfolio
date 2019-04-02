@@ -14,7 +14,7 @@
 ----
 # README.md File - required
 
-** Conisider putting all links in your portfolio **
+** consider putting all links in your portfolio **
 
 ** Consider putting some images in your `README.md` file
 
