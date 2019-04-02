@@ -45,7 +45,11 @@ https://gist.github.com/oliveratgithub/7192c585ce6850692199036d46d3dade
 - https://bootsnipp.com/snippets/aMVZE  Information Cards 
 
 ### Images
-- any images you've used... 
+- any images you've used...
+- https://pixabay.com/en/sheep-curious-look-farm-animal-1822137/
+License: Free for commercial use
+No attribution required Ref: https://pixabay.com/en/service/license/
+
 
 ### Tutorials
 - any tutorials you used for things like 3D, or AfterEffects etc.
