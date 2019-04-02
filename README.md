@@ -1,3 +1,40 @@
+# Requirements 
+
+> Must be a complete portfolio, not ipsum, no placehoders
+
+- get it proof 
+ - asdf
+- Consider adding
+- at least ONE youtube screen recording
+- Mobile screen shot
+
+
+----
+# README.md File - required
+
+** Conisider putting all links in your portfolio **
+
+> Website Speed Test
+
+- http://webpagetest.org/result/190402_EB_9d98e70e2f44541f7e3dd13653a5bdcc/ 
+
+> validator
+
+- https://validator.w3.org/nu/?doc=https%3A%2F%2Fmrmccormack.github.io%2Fmrm-portfolio%2F
+
+> Link to LinkedIn.com
+- 
+
+> Mobile Screen shot
+
+- 
+
+---
+
+
+
+## Screen shot on
+
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
 [Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
