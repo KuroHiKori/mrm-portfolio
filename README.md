@@ -31,6 +31,20 @@
 
 ---
 
+## Copyright and Plagarism Notes
+
+- My Bootstrap 4 template is licenced under MIT License
+
+### Images
+
+### Tutoarials
+
+### Other
+
+
+
+---
+
 
 
 ## Screen shot on
