@@ -10,6 +10,7 @@
 - Mobile screen shot
 - must have Google Analytics
 - Favicons for **SURE**
+- must have embedded 3D mode (you own) https://sketchfab.com
 
 
 ----
