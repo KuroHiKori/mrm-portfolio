@@ -9,6 +9,7 @@
 - at least ONE youtube screen recording
 - Mobile screen shot
 - must have Google Analytics
+- Favicons for **SURE**
 
 
 ----
