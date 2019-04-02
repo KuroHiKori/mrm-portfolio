@@ -4,7 +4,7 @@
 
 - Bootstrap 4
 - get it proofread by 3 people
-- must have TWITTER CARDS
+- must have TWITTER CARDS - learn how here https://github.com/mrmccormack/1000-vader
 - Consider adding
 - at least ONE youtube screen recording
 - Mobile screen shot
